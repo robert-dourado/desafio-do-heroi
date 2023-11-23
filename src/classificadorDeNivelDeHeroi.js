@@ -1,8 +1,8 @@
 let nome = "Seya"
 let xp = 7000
-let nivels = ["Ferro", "Bronze", "Prata", "Ouro", "Platina", "Ascendente", "Imortal", "Radiante"]
+let niveis = ["Ferro", "Bronze", "Prata", "Ouro", "Platina", "Ascendente", "Imortal", "Radiante"]
 
-for(nivel in nivels){
+for(nivel in niveis){
     
     if(xp <= 1000){
         nivel = "Ferro"
